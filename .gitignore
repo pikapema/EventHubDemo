@@ -1,0 +1,7 @@
+SenderWebJob/bin/
+EventHubSender/packages/
+SenderWebJob/obj/
+EventHubSender/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+EventHubSender/obj/
+EventHubSender/bin/
+examplemess.txt
