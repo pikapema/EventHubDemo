@@ -14,7 +14,7 @@ namespace EventHubSender
     class Program
     {
         private static EventHubClient eventHubClient;
-        private const string EhConnectionString = "Endpoint=sb://pikapemahub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=lwCnPRkjvmuoZv9XUeZ3yIhuESNQ5lrBsZoEW7mxL4Y=";
+        private const string EhConnectionString = "Endpoint=sb://pikapemahub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=/dzsvuLsVRlymt1enUYYUa1pPHQJLtfVGl1bk3CPuB0=";
         private const string EhEntityPath = "Eventhub1";
 
         static void Main(string[] args)
